@@ -1,0 +1,32 @@
+#Internet Investigations Template
+#Updated for Dark Web Hunting Toolkit
+#Dark Intel | www.darkintel.info
+/Reports/
+/Reports/Analysis_Reports/
+/Reports/Research/
+/Scratch_Files/
+/OSINT_Data/
+/OSINT_Data/Email/
+/OSINT_Data/IP_Addresses/
+/OSINT_Data/Username_Research/
+/OSINT_Data/Misc/
+/Target_Collection/
+/Target_Collection/Media/
+/Target_Collection/Social_Networking/
+/Target_Collection/Public_Data/
+/Target_Collection/Professional_Academic/
+/Target_Collection/Misc/
+/Tools/
+/Webpage_Collections/
+/Webpage_Collections/Webpage_Crawls/
+/Webpage_Collections/Webpage_Snapshots/
+/Webpage_Collections/Webpage_Source_Code/
+/Webpage_Collections/HAR_Files/
+/Webpage_Collections/Domain_Information/
+/Webpage_Collections/Geolocation_Information/
+/Webpage_Collections/Image_Files/
+/Webpage_Collections/Document_Files/
+/Hashes/
+/Forms/
+/Forms/Chain_of_Custody/
+/Forms/Evidence_Log/

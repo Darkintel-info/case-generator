@@ -1,0 +1,25 @@
+#Digital Forensics Template
+#Dark Intel | www.darkintel.info
+/Images/
+/Client_Reports/
+/Client_Reports/Imaging_Reports/
+/Client_Reports/Analysis_Reports/
+/Reports/
+/Reports/XWays_Reports/
+/Reports/IEF_Reports/
+/Reports/Autopsy_Reports/
+/Reports/FTK_Reports/
+/Evidence_Photos/
+/XWays/
+/Scratch_Files/
+/Tools/
+/Tools/IEF/
+/Tools/Regripper/
+/Tools/Logfile_Parser/
+/Tools/Timelines/
+/Tools/Timelines/Log2Timeline/
+/Carved_Files/
+/Hashes/
+/Forms/
+/Forms/Evidence_Log/
+/Forms/Chain_of_Custody/

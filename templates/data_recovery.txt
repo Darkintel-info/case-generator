@@ -1,0 +1,14 @@
+#Data Recovery Template
+#Dark Intel | www.darkintel.info
+/Client_Data_Images/
+/Reports/
+/Reports/Atola_Diagnostic_Report/
+/Reports/Client_Recovered_Data_List/
+/Recovered_Client_Data_Files/
+/Scratch_Files/
+/Tools/
+/Tools/RStudio_Scans_Files/
+/Carved_Files/
+/Hashes/
+/Forms/
+/Test/

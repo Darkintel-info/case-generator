@@ -1,0 +1,19 @@
+Copyright 2026 Dark Intel, Inc. All rights reserved.
+Author: Todd G. Shipley, CFE, CFCE | Dark Intel, Inc | www.darkintel.info
+
+Part of the Dark Web Hunting Toolkit.
+Companion to "Dark Web Hunting" by Todd G. Shipley.
+
+Licensed for use by law enforcement, government agencies, legal professionals,
+licensed investigators, cybersecurity practitioners, academic institutions,
+students, and OSINT researchers. Users are responsible for ensuring their
+use complies with all applicable laws and organizational policies.
+
+Redistribution or modification without express written permission from
+Dark Intel, Inc is prohibited.
+
+This software is provided "as is" without warranty of any kind, express
+or implied. Dark Intel, Inc and Todd G. Shipley assume no liability for
+any damages arising from the use or misuse of this software.
+
+For licensing inquiries: www.darkintel.info

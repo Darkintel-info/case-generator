@@ -1,0 +1,67 @@
+#Dark Web Hunting Investigation Template
+#For use with the Dark Web Hunting Toolkit
+#Companion to "Dark Web Hunting" by Todd G. Shipley, CFE, CFCE
+#Dark Intel | www.darkintel.info
+#
+#Evidence collected during dark web investigations
+/Evidence/
+/Evidence/Tor_Sites/
+/Evidence/Tor_Sites/Screenshots/
+/Evidence/Tor_Sites/Source_Code/
+/Evidence/Tor_Sites/HAR_Files/
+/Evidence/Tor_Sites/Downloaded_Pages/
+/Evidence/I2P_Sites/
+/Evidence/I2P_Sites/Screenshots/
+/Evidence/I2P_Sites/Source_Code/
+/Evidence/Freenet_Sites/
+/Evidence/Freenet_Sites/Screenshots/
+#Cryptocurrency investigation evidence
+/Evidence/Cryptocurrency/
+/Evidence/Cryptocurrency/Addresses/
+/Evidence/Cryptocurrency/Transactions/
+/Evidence/Cryptocurrency/Blockchain_Analysis/
+/Evidence/Cryptocurrency/Wallet_Files/
+#OSINT collection
+/Evidence/OSINT/
+/Evidence/OSINT/Username_Research/
+/Evidence/OSINT/PGP_Keys/
+/Evidence/OSINT/Email_Research/
+/Evidence/OSINT/Social_Media/
+/Evidence/OSINT/Forum_Posts/
+#Server reconnaissance evidence
+/Evidence/Server_Reconnaissance/
+/Evidence/Server_Reconnaissance/HTTP_Headers/
+/Evidence/Server_Reconnaissance/SSL_Certificates/
+/Evidence/Server_Reconnaissance/Nikto_Scans/
+/Evidence/Server_Reconnaissance/Nmap_Scans/
+/Evidence/Server_Reconnaissance/Vulnerability_Reports/
+#File metadata analysis
+/Evidence/Metadata/
+/Evidence/Metadata/Images/
+/Evidence/Metadata/Documents/
+/Evidence/Metadata/Reports/
+#Undercover persona documentation
+/Evidence/Personas/
+/Evidence/Personas/Account_Details/
+/Evidence/Personas/Communications/
+#Hash manifests for all collected evidence
+/Hashes/
+#Investigative reports
+/Reports/
+/Reports/Analysis_Reports/
+/Reports/Tool_Reports/
+/Reports/Court_Reports/
+/Reports/Timeline/
+#Tools output and working files
+/Tools/
+/Tools/OnionScan/
+/Tools/Crypto_Analysis/
+/Tools/OSINT/
+#Scratch and working files - not evidence
+/Scratch_Files/
+#Legal and administrative forms
+/Forms/
+/Forms/Chain_of_Custody/
+/Forms/Evidence_Log/
+/Forms/Legal_Process/
+/Forms/Warrants/
