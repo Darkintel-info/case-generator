@@ -175,4 +175,5 @@ run it directly. No Python installation required on the target machine.
 **Note:** The build must be run on a Windows machine. The resulting .exe
 will only run on Windows. For macOS or Linux distribution, run PyInstaller
 on those platforms separately.
+<img width="943" height="1022" alt="Case_Generator_Dashboard" src="https://github.com/user-attachments/assets/30b24518-3e7d-4e1a-848b-479a052a3787" />
 
